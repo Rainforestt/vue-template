@@ -1,0 +1,5 @@
+{
+    "*.{ts,tsx,js,jsx,cjs,mjs,vue}": "eslint --fix",
+    "*.{ts,tsx,js,jsx,cjs,mjs,vue,css,scss,less,styl,md,html}": "prettier --write"
+}
+ 
