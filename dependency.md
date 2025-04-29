@@ -10,7 +10,18 @@
 
 ## vue
 
-1. [vueuse](https://vueuse.org/)
+1. composables [vueuse](https://vueuse.org/)
+
+### ui components
+
+1. 组件 [shadcn-vue](https://www.shadcn-vue.com/docs/introduction.html)
+
+```sh
+# 新增基础组件
+pnpm add:component [name]
+```
+
+2. 图标 [lucide-vue-next](https://lucide.dev/guide/packages/lucide-vue-next)
 
 ## utils
 
